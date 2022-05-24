@@ -14,6 +14,7 @@ body {
     top: 17%;
     left: 13%;
     box-shadow: 0px 15px 40px black;
+    display: flex;
 }
 
 .conteudo .caixa1 {

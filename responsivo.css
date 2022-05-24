@@ -1,0 +1,44 @@
+@media (max-width: 475px){
+    .conteudo {
+        width: 300px;
+        height: 720px;
+        top: 6%;
+        left: 10%;
+        display: flex;
+    }
+    .conteudo .caixa3 {
+        left: 1%;
+    }
+    .conteudo .caixa3 img {
+        width:296px;
+        height: 250px;
+        border-radius: 10px 10px 0px 0px;
+    }
+    .conteudo .caixa1 {
+        top:250px;
+        line-height: 25px;
+    }
+
+    .conteudo .caixa1 h1 {
+        font-size: 24px;
+    }
+
+    .conteudo .caixa1 p{
+        left: -10%;
+        line-height: 130%;
+    }
+
+    .conteudo .caixa2 ul {
+        display: block;
+    }
+    .conteudo .caixa2 {
+        top: 68%;
+        left: 15%;
+        
+    }
+
+    .conteudo .caixa2 ul li {
+        margin: 20px;
+        font-size: 20px;
+    }
+    }
